@@ -1,0 +1,7 @@
+{
+  "name": "AquaSort - Water Color Puzzle",
+  "description": "An immersive, fluid water sort puzzle game with realistic pouring physics, sound synthesis, 60+ challenging levels, and custom mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
